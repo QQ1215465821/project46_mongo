@@ -69,8 +69,7 @@ class Project46MongoApplicationTests {
 
     void testGit(){
         /**
-         * 444内容
-         * 666内容
+         *
          */
     }
 
