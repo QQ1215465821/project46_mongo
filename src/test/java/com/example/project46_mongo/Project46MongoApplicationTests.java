@@ -67,4 +67,10 @@ class Project46MongoApplicationTests {
 
     }
 
+    void testGit(){
+        /**
+         *
+         */
+    }
+
 }
